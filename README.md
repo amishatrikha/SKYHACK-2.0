@@ -7,3 +7,4 @@ As United Airlines continues its journey to become the best airline in the histo
 The task here is to optimize these key call center metrics, helping reduce resolution times and providing faster, more efficient service to our customers. You are required to analyze our existing call center data to identify inefficiencies, determine the drivers of long AHT and AST, and suggest strategies to enhance customer satisfaction, reduce escalations, and improve overall operational efficiency.
 
 # Presentation Link:
+https://drive.google.com/file/d/1gDmHD2-6a8saUNMTKVbE5fMtd0sZ3J1u/view?usp=sharing
